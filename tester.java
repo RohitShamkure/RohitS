@@ -6,19 +6,7 @@ public class tester {
 		// TODO Auto-generated method stub
 		BST bst=new BST();		
 
-//		bst.insert(10);
-//		bst.insert(20);
-//		bst.insert(25);
-//		bst.insert(40);
-//		bst.insert(50);
-//		bst.insert(15);
 //		
-//				
-//		bst.inorder(bst.getRoot());
-//		System.out.println();
-//		bst.preorder(bst.getRoot());
-//		System.out.println();
-//		bst.postorder(bst.getRoot());
 		
 		Scanner sc=new Scanner(System.in);
 		
